@@ -48,3 +48,8 @@ swapon -v <swapFile>
 ```
 <swapFile>	swap	swap	defaults	0	0
 ```
+
+6. Reload `/etc/fstab` file
+```
+mount -av
+```
