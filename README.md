@@ -2,6 +2,11 @@
 
 ### Removing Swap File
 
+0. Show swap situation
+```
+swapon --show
+```
+
 1. Deactivate swap file
 
 ```
